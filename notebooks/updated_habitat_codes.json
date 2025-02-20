@@ -13,7 +13,7 @@
                 "scrub"
             ],
             "densities": [
-                5
+                6
             ]
         },
         "ACID GRASSLAND": {
@@ -29,14 +29,16 @@
                 "scrub"
             ],
             "densities": [
-                5
+                7
             ]
         },
         "ACID GRASSLAND WITH SCATTERED SCRUB WOODY MOSAICS": {
             "types": [
-                "scrub"
+                "scrub",
+                "trees"
             ],
             "densities": [
+                5,
                 5
             ]
         },
@@ -101,7 +103,7 @@
                 "scrub"
             ],
             "densities": [
-                3
+                5
             ]
         },
         "BLANKET BOG SCATTERED SCRUB MOSAIC": {
@@ -109,7 +111,7 @@
                 "scrub"
             ],
             "densities": [
-                3
+                5
             ]
         },
         "BLANKET BOG WITH SCATTERED SCRUB WOODY MOSAICS": {
@@ -117,7 +119,7 @@
                 "scrub"
             ],
             "densities": [
-                3
+                5
             ]
         },
         "BROADLEAVED WOODLAND": {
@@ -134,7 +136,7 @@
                 "trees"
             ],
             "densities": [
-                6,
+                8,
                 2
             ]
         },
@@ -143,7 +145,7 @@
                 "scrub"
             ],
             "densities": [
-                5
+                6
             ]
         },
         "BROADLEAVED/WET WOODLAND": {
@@ -486,8 +488,8 @@
                 "trees"
             ],
             "densities": [
-                5,
-                3
+                7,
+                4
             ]
         },
         "WET WOODLAND": {
